@@ -20,7 +20,7 @@ I build numerical simulations and models spanning **soft matter / biophysics** (
 <tr>
 <td width="50%" valign="top">
 
-**🧫 Vertex Models (tissue mechanics)**
+**🧫 Vertex Models & Organoids (tissue mechanics)**
 - [Vertex_Model_3d](https://github.com/TheSahilGit/Vertex_Model_3d) — 3D vertex model, Fortran
 - [VertexModel_Sphere_2D_MATLAB](https://github.com/TheSahilGit/VertexModel_Sphere_2D_MATLAB) — 2D vertex model on a spherical surface
 - [Vertex-Fortran-Core](https://github.com/TheSahilGit/Vertex-Fortran-Core) — core Fortran engine w/ MATLAB initialization
@@ -39,7 +39,7 @@ I build numerical simulations and models spanning **soft matter / biophysics** (
 <td width="50%" valign="top">
 
 **📈 PDEs & Numerical Methods**
-- [KPZ_Numerical_Solutions](https://github.com/TheSahilGit/KPZ_Numerical_Solutions) — KPZ equation on flat & curved 2D surfaces
+- [KPZ_Numerical_Solutions](https://github.com/TheSahilGit/KPZ_Numerical_Solutions) — Turing Patterns on flat & curved 2D surfaces
 - [Reaction-Diffusion-Turing_Pattern](https://github.com/TheSahilGit/Reaction-Diffusion-Turing_Pattern) — Turing pattern formation, Fortran
 - [Physics-PDE-FORTRAN](https://github.com/TheSahilGit/Physics-Partial-Differential-Equations-FORTRAN) — general PDE solvers
 
