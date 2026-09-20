@@ -4,7 +4,7 @@
 <h3 align="center">Hi, I'm Sahil</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2500&color=2F81F7&center=true&vCenter=true&width=750&lines=I+am+a+PhD+Research+Scholar%2C+IIT+Hyderabad+%E2%80%94+computational+%26+statistical+physics%2C+biophysics%2C+and+numerical+modeling." alt="I am a PhD Research Scholar" />
+  I am a PhD Research Scholar, IIT Hyderabad — computational &amp; statistical physics, biophysics, and numerical modeling.
 </p>
 
 <p align="center">
