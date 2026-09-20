@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Sahil</h1>
-<h3 align="center"><i>Simulating the physics of living matter</i></h3>
+<h3 align="center"><i><font color="#2F81F7">Simulating the physics of living matter</font></i></h3>
 
 <p align="center">
   PhD Research Scholar, IIT Hyderabad — computational &amp; statistical physics, biophysics, and numerical modeling.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Vertex+models+%7C+Monte+Carlo+%7C+Organoids+%7C+PDEs;Fortran+%2B+Python+%2B+MATLAB;Simulating+the+physics+of+living+matter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Vertex+models+%7C+Monte+Carlo+%7C+Organoids+%7C+PDEs;Fortran+%2B+Python+%2B+MATLAB;Living+matter" alt="Typing SVG" />
 </p>
 
 ---
