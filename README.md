@@ -1,7 +1,5 @@
-<h1 align="center">Hi, I'm Sahil</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&speed=15&lines=Simulating+the+physics+of+living+matter&repeat=false" alt="Simulating the physics of living matter" />
-</p>
+<h1 align="center">Simulating the physics of living matter</h1>
+<h3 align="center">Hi, I'm Sahil</h3>
 
 <p align="center">
   PhD Research Scholar, IIT Hyderabad — computational &amp; statistical physics, biophysics, and numerical modeling.
