@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI3MDAiIGhlaWdodD0iMzYiPgogIDx0ZXh0IHg9IjUwJSIgeT0iMjYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJGaXJhIENvZGUsIG1vbm9zcGFjZSIgZm9udC1zaXplPSIyNCIgZmlsbD0iIzJGODFGNyI+U2ltdWxhdGluZyB0aGUgcGh5c2ljcyBvZiBsaXZpbmcgbWF0dGVyPC90ZXh0Pgo8L3N2Zz4K" alt="Simulating the physics of living matter" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=Simulating%20the%20physics%20of%20living%20matter&fontColor=2F81F7&fontSize=28&fontAlignY=60&animation=fadeIn" alt="Simulating the physics of living matter" />
 </h1>
 <h3 align="center">Hi, I'm Sahil</h3>
 
