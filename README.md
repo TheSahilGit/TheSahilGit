@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=Simulating%20the%20physics%20of%20living%20matter&fontColor=2F81F7&fontSize=28&fontAlignY=60&animation=fadeIn" alt="Simulating the physics of living matter" />
-</h1>
+<h1 align="center">Simulating the physics of living matter</h1>
 <h3 align="center">Hi, I'm Sahil</h3>
 
 <p align="center">
