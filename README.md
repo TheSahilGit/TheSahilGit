@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Vertex+models+%7C+Monte+Carlo+%7C+Organoids+%7C+PDEs;Fortran+%2B+Python+%2B+MATLAB;Living+matter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=2500&color=2F81F7&center=true&vCenter=true&width=600&lines=Vertex+models+%7C+Organoids+%7C+Monte+Carlo+%7C+PDEs;Fortran+%2B+Python+%2B+MATLAB;Living+matter" alt="Typing SVG" />
 </p>
 
 ---
