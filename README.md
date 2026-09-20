@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Sahil</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Simulating+the+physics+of+living+matter&repeat=false" alt="Simulating the physics of living matter" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&speed=15&lines=Simulating+the+physics+of+living+matter&repeat=false" alt="Simulating the physics of living matter" />
 </p>
 
 <p align="center">
