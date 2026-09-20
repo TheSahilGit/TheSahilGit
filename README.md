@@ -6,7 +6,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=2500&color=2F81F7&center=true&vCenter=true&width=600&lines=Vertex+models+%7C+Organoids+%7C+Monte+Carlo+%7C+PDEs;Fortran+%2B+Python+%2B+MATLAB" alt="Typing SVG" />
+  Vertex models | Organoids | Monte Carlo | PDEs<br>
+  Fortran + Python + MATLAB
 </p>
 
 ---
