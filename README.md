@@ -9,7 +9,7 @@
   <code>Fortran + Python + MATLAB</code>
 </h4>
 
-<p align="center"><i>Physicist by training, coder by necessity — mostly here for the tissues, the spins, and the equations that describe them.</i></p>
+<p align="center"><i>Physicist by training, coder by necessity — mostly here for the tissues, the patterns, and the equations that describe them.</i></p>
 
 ---
 
