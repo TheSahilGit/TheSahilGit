@@ -1,14 +1,14 @@
 <h1 align="center">Simulating the physics of living matter</h1>
 <h3 align="center">Hi, I'm Sahil</h3>
 
-<p align="center">
+<h4 align="center">
   I am a PhD Research Scholar, IIT Hyderabad — computational &amp; statistical physics, biophysics, and numerical modeling.
-</p>
+</h4>
 
-<p align="center">
+<h4 align="center">
   Vertex models | Organoids | Monte Carlo | PDEs<br>
   Fortran + Python + MATLAB
-</p>
+</h4>
 
 ---
 
