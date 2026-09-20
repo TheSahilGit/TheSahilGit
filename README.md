@@ -42,7 +42,7 @@ I build numerical simulations and models spanning **soft matter / biophysics** (
 <td width="50%" valign="top">
 
 **📈 PDEs & Numerical Methods**
-- [KPZ_Numerical_Solutions](https://github.com/TheSahilGit/KPZ_Numerical_Solutions) — Turing Patterns on flat & curved 2D surfaces
+- [KPZ_Numerical_Solutions](https://github.com/TheSahilGit/KPZ_Numerical_Solutions) — Fractal patterns on flat & curved 2D surfaces
 - [Reaction-Diffusion-Turing_Pattern](https://github.com/TheSahilGit/Reaction-Diffusion-Turing_Pattern) — Turing pattern formation, Fortran
 - [Physics-PDE-FORTRAN](https://github.com/TheSahilGit/Physics-Partial-Differential-Equations-FORTRAN) — general PDE solvers
 
