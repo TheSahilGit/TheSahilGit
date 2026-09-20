@@ -5,7 +5,7 @@
 </h3>
 
 <h4 align="center">
-  <code>Vertex models | Organoids | Monte Carlo | PDEs</code><br>
+  <code>Vertex models | Organoids | Turing Patterns | Navier Stokes Equation</code><br>
   <code>Fortran + Python + MATLAB</code>
 </h4>
 
