@@ -102,17 +102,31 @@ I build numerical simulations and models spanning **soft matter / biophysics** (
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TheSahilGit&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSahilGit&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheSahilGit&hide_border=true&hide_current_streak=true&hide_longest_streak=true" alt="total contributions" />
 </p>
 
 <p align="center">
-  <a href="https://scholar.google.com/citations?user=CV8K1IsAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
-  <a href="https://sites.google.com/view/sahilislam/home"><img src="https://img.shields.io/badge/Homepage-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TheSahilGit&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSahilGit&layout=compact&hide_border=true" />
 </p>
+
+### 🎓 Academic profile
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+<a href="https://scholar.google.com/citations?user=CV8K1IsAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white&logoWidth=30" height="50" /></a>
+<br><sub>Publications & citations</sub>
+
+</td>
+<td width="50%" align="center">
+
+<a href="https://sites.google.com/view/sahilislam/home"><img src="https://img.shields.io/badge/Homepage-000000?style=for-the-badge&logo=googlechrome&logoColor=white&logoWidth=30" height="50" /></a>
+<br><sub>Personal website</sub>
+
+</td>
+</tr>
+</table>
 
 ---
