@@ -111,7 +111,8 @@ I build numerical simulations and models spanning **soft matter / biophysics** (
 </p>
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=TheSahilGit&theme=flat&no-frame=true&margin-w=15&margin-h=15&column=7" alt="trophies" />
+  <a href="https://scholar.google.com/citations?user=CV8K1IsAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
+  <a href="https://sites.google.com/view/sahilislam/home"><img src="https://img.shields.io/badge/Homepage-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
 ---
