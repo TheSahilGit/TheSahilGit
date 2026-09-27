@@ -101,22 +101,15 @@ I build numerical simulations and models spanning **soft matter / biophysics** (
 
 ### 🎓 Academic profile
 
-<table>
-<tr>
-<td width="50%" align="center">
+<p align="center">
+  <a href="https://scholar.google.com/citations?user=CV8K1IsAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white&logoWidth=30" height="65" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://sites.google.com/view/sahilislam/home"><img src="https://img.shields.io/badge/Homepage-000000?style=for-the-badge&logo=googlechrome&logoColor=white&logoWidth=30" height="65" /></a>
+</p>
 
-<a href="https://scholar.google.com/citations?user=CV8K1IsAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white&logoWidth=30" height="65" /></a>
-<br><sub>Publications & citations</sub>
-
-</td>
-<td width="50%" align="center">
-
-<a href="https://sites.google.com/view/sahilislam/home"><img src="https://img.shields.io/badge/Homepage-000000?style=for-the-badge&logo=googlechrome&logoColor=white&logoWidth=30" height="65" /></a>
-<br><sub>Personal website</sub>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <sub>Publications & citations</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>Personal website</sub>
+</p>
 
 ### 📊 GitHub stats
 
