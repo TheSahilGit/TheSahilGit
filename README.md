@@ -26,7 +26,7 @@ I build numerical simulations and models spanning **soft matter / biophysics** (
 **🧫 Vertex Models & Organoids (tissue mechanics)**
 - [Vertex_Model_3d](https://github.com/TheSahilGit/Vertex_Model_3d) — 3D vertex model, Fortran
 - [VertexModel_Sphere_2D_MATLAB](https://github.com/TheSahilGit/VertexModel_Sphere_2D_MATLAB) — 2D vertex model on a spherical surface
-- [Vertex-Fortran-Core](https://github.com/TheSahilGit/Vertex-Fortran-Core) — core Fortran engine w/ MATLAB initialization
+- [Vertex_Model](https://github.com/TheSahilGit/Vertex_Model) — vertex model code in Fortran
 
 </td>
 <td width="50%" valign="top">
@@ -90,7 +90,7 @@ I build numerical simulations and models spanning **soft matter / biophysics** (
 
 ### 🛠️ Languages & tools
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
@@ -101,12 +101,12 @@ I build numerical simulations and models spanning **soft matter / biophysics** (
 
 ### 📊 GitHub stats
 
-<p align="left">
+<p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=TheSahilGit&show_icons=true&theme=default&hide_border=true&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSahilGit&layout=compact&hide_border=true" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheSahilGit&hide_border=true" alt="streak stats" />
 </p>
 
